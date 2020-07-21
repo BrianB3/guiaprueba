@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISNEY JR *FHD">
+    <display-name lang="es">DISNEY JR *FHD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/702.png" />
+    <url>http://www.tccvivo.com.uy.E</url>
+  </channel>
+  <channel id="CARTOON NETWORK *FHD">
+    <display-name lang="es">CARTOON NETWORK *FHD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX SPORTS *FHD">
+    <display-name lang="es">FOX SPORTS *FHD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20200721184600 -0300" stop="20200721190300 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Mickey: aventuras sobre ruedas</title>
+    <desc lang="es">Todos viajan a la India para ser parte de la boda de Rash y Sabi, quienes le encargan a Minnie y Mickey que cuiden por ellos dos objetos que serán parte de la ceremonia: una guirnalda de flores y un collar con un dije dorado.</desc>
+  </programme>
+  <programme start="20200721190300 -0300" stop="20200721191600 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Mira: la detective del reino</title>
+    <desc lang="es">Mira hace malabares con el cuidado de su primo, al mismo tiempo que busca una bicicleta perdida.</desc>
+  </programme>
+  <programme start="20200721191600 -0300" stop="20200721193300 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Fancy Nancy Clancy</title>
+    <desc lang="es">Sigue las fabulosas aventuras de Nancy, una niña de seis años con fascinación por todo lo elegante y una capacidad sorprendente para transformar lo simple en sofisticado.</desc>
+  </programme>
+  <programme start="20200721193300 -0300" stop="20200721194700 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">The Rocketeer</title>
+    <desc lang="es">Las aventuras épicas de una joven llamada Kit Secord, que se eleva a los cielos para proteger a su comunidad después de convertirse en la receptora de un cohete que le permite volar.</desc>
+  </programme>
+  <programme start="20200721194700 -0300" stop="20200721200500 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Puppy Dog Pals</title>
+    <desc lang="es">Los divertidos hermanos pugs Bingo y Rolly tienen un apetito por la emoción que los lleva a vivir aventuras emocionantes en sus vecindarios y el mundo entero.</desc>
+  </programme>
+  <programme start="20200721200500 -0300" stop="20200721213000 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Leroy y Stitch</title>
+    <desc lang="es">Las aventuras de Lilo, Stitch, Jumba y Peakley.</desc>
+  </programme>
+  <programme start="20200721213000 -0300" stop="20200721213700 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Bluey</title>
+    <desc lang="es">En cada episodio, Bluey usa su energía ilimitada de Blue Heeler para llevar a cabo juegos elaborados que se desarrollan de formas impredecibles y divertidas que llevan a su familia y al vecindario a su mundo de diversión.</desc>
+  </programme>
+  <programme start="20200721213700 -0300" stop="20200721214600 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Bluey</title>
+    <desc lang="es">En cada episodio, Bluey usa su energía ilimitada de Blue Heeler para llevar a cabo juegos elaborados que se desarrollan de formas impredecibles y divertidas que llevan a su familia y al vecindario a su mundo de diversión.</desc>
+  </programme>
+  <programme start="20200721214600 -0300" stop="20200721220300 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Mira: la detective del reino</title>
+    <desc lang="es">Mira hace malabares con el cuidado de su primo, al mismo tiempo que busca una bicicleta perdida.</desc>
+  </programme>
+  <programme start="20200721220300 -0300" stop="20200721223200 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Junior Express</title>
+    <desc lang="es">El monorriel se dirige a la estación Disfraces y durante el viaje aparecen pistas y ruidos que los van a llevar a sospechar la presencia de un animal en el monorriel ¿Qué será.</desc>
+  </programme>
+  <programme start="20200721223200 -0300" stop="20200721224300 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Nivis, amigos de otro mundo</title>
+    <desc lang="es">La batuta de Amadeo se pierde. Blink quiere ser el héroe de la situación y recuperar el objeto perdido, pero, por querer ayudar, genera más problemas. ¿Logrará demostrar que puede ser un pequeño gran héroe.</desc>
+  </programme>
+  <programme start="20200721224300 -0300" stop="20200721230000 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Puppy Dog Pals</title>
+    <desc lang="es">Los divertidos hermanos pugs Bingo y Rolly tienen un apetito por la emoción que los lleva a vivir aventuras emocionantes en sus vecindarios y el mundo entero.</desc>
+  </programme>
+  <programme start="20200721230000 -0300" stop="20200721232700 -0300" channel="DISNEY JR *FHD">
+    <title lang="es">Mickey: aventuras sobre ruedas</title>
+    <desc lang="es">Mickey y su pandilla, subidos a sus vehículos personalizados, se embarcan en un sinfín de aventuras y travesuras mientras participan de emocionantes carreras tanto en su ciudad, Hot Dog Hills, como alrededor del mundo.</desc>
+  </programme>
+  <programme start="20200721010000 -0300" stop="20200721013000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200721013000 -0300" stop="20200721023000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200721023000 -0300" stop="20200721030000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721030000 -0300" stop="20200721040000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mao Mao: Héroes de puro</title>
+  </programme>
+  <programme start="20200721040000 -0300" stop="20200721050000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20200721050000 -0300" stop="20200721060000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20200721060000 -0300" stop="20200721061500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20200721061500 -0300" stop="20200721064500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mi Compañero Es Un Mono</title>
+  </programme>
+  <programme start="20200721064500 -0300" stop="20200721070000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20200721070000 -0300" stop="20200721080000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20200721080000 -0300" stop="20200721090000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20200721090000 -0300" stop="20200721092500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Transformers: Cyberverse</title>
+  </programme>
+  <programme start="20200721092500 -0300" stop="20200721100000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Pokémon: Sol y Luna</title>
+  </programme>
+  <programme start="20200721100000 -0300" stop="20200721103000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721103000 -0300" stop="20200721113000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200721113000 -0300" stop="20200721120000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721130000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721130000 -0300" stop="20200721133000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mao Mao: Héroes de puro</title>
+  </programme>
+  <programme start="20200721133000 -0300" stop="20200721140000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200721140000 -0300" stop="20200721144500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200721144500 -0300" stop="20200721150000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20200721150000 -0300" stop="20200721154500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721154500 -0300" stop="20200721163000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721163000 -0300" stop="20200721170000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total: La guardería</title>
+  </programme>
+  <programme start="20200721170000 -0300" stop="20200721180000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mao Mao: Héroes de puro</title>
+  </programme>
+  <programme start="20200721180000 -0300" stop="20200721190000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200721190000 -0300" stop="20200721194500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200721194500 -0300" stop="20200721200000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Mónica joven</title>
+  </programme>
+  <programme start="20200721200000 -0300" stop="20200721210000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721210000 -0300" stop="20200721214500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200721214500 -0300" stop="20200721220000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20200721220000 -0300" stop="20200721224500 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200721224500 -0300" stop="20200721230000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20200721230000 -0300" stop="20200722000000 -0300" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200721000000 -0300" stop="20200721010000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Lo mejor</title>
+  </programme>
+  <programme start="20200721010000 -0300" stop="20200721030000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Porto vs. Moreirense, Fecha 33, Estádio do Dragão</title>
+  </programme>
+  <programme start="20200721030000 -0300" stop="20200721043000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20200721043000 -0300" stop="20200721063000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Rosario Central (Arg) vs. Grêmio (Bra), Grupo H</title>
+  </programme>
+  <programme start="20200721063000 -0300" stop="20200721080000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">90 minutos de fútbol</title>
+  </programme>
+  <programme start="20200721080000 -0300" stop="20200721090000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Lo mejor</title>
+  </programme>
+  <programme start="20200721090000 -0300" stop="20200721100000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20200721100000 -0300" stop="20200721120000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">U. Concepción (Chi) vs. Sporting Cristal (Per), Grupo C</title>
+  </programme>
+  <programme start="20200721120000 -0300" stop="20200721130000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200721130000 -0300" stop="20200721143000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">90 minutos de fútbol</title>
+  </programme>
+  <programme start="20200721143000 -0300" stop="20200721150000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200721150000 -0300" stop="20200721170000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Sporting Lisboa vs. Vitória Setúbal, Fecha 33, Estadio José Alvalade XXI</title>
+  </programme>
+  <programme start="20200721170000 -0300" stop="20200721190000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">D. Aves vs. Benfica, Fecha 33, Estadio Clube Desportivo das Aves</title>
+  </programme>
+  <programme start="20200721190000 -0300" stop="20200721203000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20200721203000 -0300" stop="20200721210000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20200721210000 -0300" stop="20200721213000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20200721213000 -0300" stop="20200721230000 -0300" channel="FOX SPORTS *FHD">
+    <title lang="es">90 minutos de fútbol</title>
+  </programme>
+</tv>
